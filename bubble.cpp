@@ -1,4 +1,5 @@
 //bubble sort is sorting algoritm that compares the two adjacent element and swap them if them are 
+// sorting of aadjacent array elements
 #include<iostream>
 using namespace std;
 void bubble(int a[],int size)
